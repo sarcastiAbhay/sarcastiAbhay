@@ -111,6 +111,8 @@
   <a href="https://github.com/sarcastiAbhay"><img alt="Abhay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sarcastiAbhay&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ![Abhay's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarcastiAbhay&custom_title=Abhay's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
